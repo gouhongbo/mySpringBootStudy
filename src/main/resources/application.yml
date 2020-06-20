@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+config:
+  myObject:
+    myName: zhangsan
+    myAge: 20
+
+
